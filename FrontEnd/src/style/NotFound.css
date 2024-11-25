@@ -1,0 +1,20 @@
+.Nfound{
+    background-color: #F3F3F4;
+    text-align: center;
+    width: 100%;
+    padding: 108px 0px;
+}
+.Nfound h1{
+    color: #454545;
+    font-size: 70px;
+    margin-bottom: 20px;
+}
+
+.btn-primary{
+    background-color: #783992;
+    border: #783992;
+}
+
+.btn-primary:hover{
+    opacity: 0.5;
+}

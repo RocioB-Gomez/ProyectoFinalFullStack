@@ -1,0 +1,41 @@
+.services{
+    padding-bottom: 0px;
+}
+.section-pasos {
+    transition: background-color 0.3s ease, color 0.3s ease; /* Transiciones suaves para fondo y texto */
+    padding: 20px; /* Espaciado interno */
+}
+.section-pasos:hover{
+    color: #783992;
+    cursor: pointer;
+
+    
+}
+.section-pasos:hover h5,
+.section-pasos:hover p {
+    color: #783992; /* Cambia el color del texto a blanco también en encabezados y párrafos */
+
+}
+
+.num-paso span{
+    font-weight: bold;
+    font-size: 2em;
+}
+.num-paso span:hover {
+    background-color: #783992;
+    color: #ffffff;
+    border-radius: 50px;
+    padding: 8px 20px;
+}
+.desc h5{
+    color: #454545;
+    font-weight: bold;
+    margin-top: 25px;
+}
+.desc p{
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+.image-producto{
+    margin: auto;
+}

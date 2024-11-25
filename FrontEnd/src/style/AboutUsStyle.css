@@ -1,0 +1,45 @@
+.aboutUs{
+    margin-bottom: 35px;
+    overflow: auto;
+    padding-top: 100px;
+}
+.aboutUs, .product{
+    margin-top: 80px;
+}
+.home h5{
+    color: #783992;
+    font-size: 15px;
+}
+.home h2{
+    color: #454545;
+    font-size: 41px;
+    margin: 17px 0px;
+}
+.home h2 span{
+    font-weight: bold;
+}
+.home p{
+    display: block;
+    font-size: 18px;
+    margin: 55px 0px;
+}
+.home .container-left{
+    text-align: left !important;
+}
+.desc-about{
+    float: left;
+    width: 50%;
+}
+.color-line-left{
+    background: #783992;
+    height: 2px;
+    width: 96px;
+    display: block;
+    margin: 29px 0px;
+}
+.box-desc p{
+    margin: 10px 0px;
+}
+.color-line{
+    margin: 29px auto;
+}

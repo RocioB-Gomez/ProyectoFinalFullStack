@@ -1,0 +1,29 @@
+.InfoUs{
+    background-color: #F3F3F4;
+    text-align: center;
+    width: 100%;
+    padding: 47px 0px;
+}
+.InfoUs h1{
+    color: #454545;
+    font-size: 35px;
+}
+.InfoUs form{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+.InfoUs form input{
+    border: 1px solid #c9cecf;
+    width: 100%;
+    margin: 10px 0px;
+    height: 50px;
+    padding: 0px 15px;
+}
+.InfoUs form textarea{
+    border: 1px solid #c9cecf;
+    width: 100%;
+    margin: 10px 0px;
+    padding: 0px 15px;
+    height: 150px;
+}

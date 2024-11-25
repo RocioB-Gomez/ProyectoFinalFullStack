@@ -1,0 +1,17 @@
+.filter-and-add{}
+.filter-and-add form{
+    float: left;
+    margin-right: 30px;
+}
+.filter-and-add form label{
+    margin-right: 15px;
+}
+.filter-and-add form input{
+    margin-right: 5px;
+}
+.filter-and-add form button{
+    color: white;
+    background-color: #783992 !important;
+    border-color: #783992 !important;
+    border-radius: 5px;
+    padding: 4px 11px;}

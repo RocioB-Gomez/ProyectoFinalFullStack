@@ -1,0 +1,71 @@
+.log{
+    background-color: #F3F3F4;
+    margin: auto;
+    text-align: center;
+    padding: 50px 0px;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.log a{
+    text-decoration: none;
+}
+
+.log h1{
+    display: block;
+    color: #454545;
+    font-size: 45px;
+}
+
+
+.log form{
+    width: 25%;
+    margin: auto;
+    padding: 35px 0px;
+}
+
+.log form input{
+    border: 1px solid #c9cecf;
+    width: 325px;
+    height: 35px;
+    margin: 3px 0px;
+}
+.log form input:focus{
+    border-color: #783992;
+    box-shadow: 0 1px 1px rgba(164, 23, 229, 0.075)inset, 0 0 8px rgba(255, 0, 179, 0.6);
+    outline: 0 none;
+}
+
+.log form button{
+    background-color: #783992;
+    border: none;
+    color: white;
+    width: 325px;
+    padding: 7px 0px;
+    border-radius: 5px;
+    margin: 8px 0px;
+}
+
+.log form button:hover{
+    opacity: 0.5;
+}
+.log form a.in{
+    color: #783992;
+    font-size: 12px;
+    text-decoration: none;
+    width: 98%;
+    float: left;
+    text-align: right;
+    margin: 10px 0px;
+}
+.log form a.in:hover{
+    text-decoration:underline;
+}
+p.quest a{
+    color: #783992;
+    text-decoration: none;
+}
+
+p.quest a:hover{
+    text-decoration: underline;
+}

@@ -1,0 +1,19 @@
+.allNav{
+    position: fixed;
+    width: 100%;
+    z-index: 1070;
+    padding: 10px 25px;
+}
+.navbar-brand{
+    font-size: 35px;
+}
+nav a.btn-primary{
+    background-color: #783992 !important;
+    border-color: #783992 !important;
+}
+
+.list-group-item-action.active{
+    background-color: #783992 !important;
+    border-color: #783992 !important;
+}
+

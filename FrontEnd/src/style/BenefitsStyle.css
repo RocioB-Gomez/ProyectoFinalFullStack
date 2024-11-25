@@ -1,0 +1,58 @@
+.benefits, .services{
+    background-color: #F7F8FA;
+    overflow: auto;
+    border-top: #EAEBEC 2px solid;
+    border-bottom: #EAEBEC 2px solid;
+    padding: 85px 0px;
+}
+.icon-container{
+    float: left;
+}
+.icon-basic img{
+    width: 35px;
+    height: 35px;
+}
+
+.container_ben {
+    position: relative;
+    height: 200px; /* Ajusta la altura según tu imagen */
+    margin: 0 auto; /* Centra el contenedor en el padre */
+    float: left;
+}
+
+.imagen {
+    position: absolute;
+    left: -100%; /* Comienza fuera de la pantalla */
+    opacity: 0;
+    margin-left: 35px;
+    transition: left 1s ease, opacity 1s ease; /* Transiciones para la animación */
+}
+
+.imagen.visible {
+    left: 0; /* Se mueve a la posición original */
+    opacity: 1; /* Cambia la opacidad a 1 */
+}
+
+.fadeInLeft {
+    float: left;
+    
+}
+.box-desc{
+    text-align: left;
+    float: left;
+    width: 90%;
+    padding: 0px 20px;
+}
+.box-desc h4{
+    font-size: 20px;
+}
+.grey-line {
+    height: 2px;
+    width: 50px;
+    display: block;
+    background: #eaebec;
+    margin: 13px 0px;
+}
+.fadeInRight{
+    float: left;
+}

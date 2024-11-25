@@ -1,0 +1,31 @@
+.contacta{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, -0.5)), url("../public/Posadas.jpg");
+    padding-top: 95px;
+    background-size: cover;
+    padding-bottom: 120px;
+}
+.contacta h1{
+    color: #ffffff;
+    font-weight: bold;
+    margin: 50px 0px;
+}
+.contacta button{
+    margin: 25px 0px 40px 0px;
+}
+.extra{
+    margin: 50px auto;
+    width: 40%;
+}
+.extra h2{
+    margin: 20px auto 50px auto;
+}
+.extra img{
+    height: 50px;
+    width: 50px;
+}
+.extra a{
+    color: #783992;
+}
+.mail{
+    float: left;
+}

@@ -1,0 +1,13 @@
+.perfil-al{
+    width: 75%;
+    margin: auto;
+    overflow: hidden;
+}
+.desc-perfil{
+    float: left;
+    width: 27%;
+    margin: 0px 20px;
+}
+.datos{
+    float: left;
+}

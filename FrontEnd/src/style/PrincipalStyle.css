@@ -1,0 +1,36 @@
+.principal{
+    background: url(../public/tablet_estudio1.jpg) no-repeat center top fixed;
+    padding-top: 95px;
+    background-size: cover;
+}
+.principal .text-center{
+    width: 100%;
+}
+.principal{
+    padding-bottom: 40px;
+}
+.description{
+    margin: 150px 0px 50px 0px;
+}
+.description h1{
+    display: block;
+    color: #f6f9fa;
+    font-size: 77px;
+    text-align: left;
+}
+.description h2{
+    color: #ffffff;
+    width: 50%;
+    font-size: 25px;
+    text-align: left;
+    margin: 35px 1px;
+}
+.principal .description a, .contacta button{
+    background-color: #783992 !important;
+    border-color: #783992 !important;
+    opacity: inherit !important;
+    padding: 25px 35px;
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
